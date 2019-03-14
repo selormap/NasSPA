@@ -1,0 +1,12 @@
+.banner {
+
+
+   background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(23, 162, 184, 1)), to(rgba(23, 162, 184, 1))), url(../../assets/reecruit.jpg);
+  background-image: linear-gradient(rgba(23, 163, 184, 0.747), rgba(23, 162, 184, 1)), url(../../assets/reecruit.jpg);
+  background-size: cover;
+}
+
+i{
+  color: #17a2b8;
+}
+
